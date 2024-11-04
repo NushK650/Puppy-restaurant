@@ -1,0 +1,16 @@
+@font-face {
+    font-family: MB;
+    src: url(/styles/fonts/Montauk-Bold.otf);
+}
+@font-face {
+    font-family: MI;
+    src: url(/styles/fonts/Montauk-Italic.otf);
+}
+@font-face {
+    font-family: ML;
+    src: url(/styles/fonts/Montauk-Light.otf);
+}
+@font-face {
+    font-family: MR;
+    src: url(/styles/fonts/Montauk-Regular.otf);
+}
