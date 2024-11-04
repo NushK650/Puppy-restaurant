@@ -18,7 +18,22 @@
     font-family: FO;
     src: url(/assets/fonts/FugazOne-Regular.ttf);
 }
-
+/* cards */
+.card{
+    border-radius: 0%;
+}
+.card-title{
+    font-family: FO;
+    color: #5F002B;
+}
+.card-text{
+    font-family: MR;
+    color: #5F002B;
+}
+.card-img-bottom{
+    border-radius: 0%;
+   
+}
 /* backgrounds */
 .bg-body-tertiary{
     background-image: url(/assets/bgtexture.jpg);
@@ -35,5 +50,10 @@ color: #5F002B;
 .footertext{
     font-family: MR;
     color: #5F002B;
-    
 }
+.footer-padding{
+    padding-left: 140px;
+    padding-right: 100px;
+}
+/* home */
+
