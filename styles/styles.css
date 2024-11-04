@@ -14,3 +14,17 @@
     font-family: MR;
     src: url(/styles/fonts/Montauk-Regular.otf);
 }
+@font-face {
+    font-family: FO;
+    src: url(/styles/fonts/FugazOne-Regular.ttf);
+}
+.bg-body-tertiary{
+    background-image: url(/assets/bgtexture.jpg);
+}
+.nav-link{
+font-family: FO;
+color: #5F002B;
+}
+.bg{
+    background-image: url(/assets/bgtexture.jpg);
+}
