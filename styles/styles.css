@@ -29,6 +29,7 @@
 .card-text{
     font-family: MR;
     color: #5F002B;
+    font-size: 1.25rem;
 }
 .card-img-bottom{
     border-radius: 0%;
@@ -65,3 +66,13 @@ color: #5F002B;
 }
 
 /* End of Photos Page */
+
+/* Menu Page */
+.font-size-30 {
+    font-size: 1.875rem;
+}
+
+.font-size-20 {
+    font-size: 1.25rem;
+}
+/* End of Menu Page */
