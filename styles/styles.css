@@ -18,13 +18,22 @@
     font-family: FO;
     src: url(/assets/fonts/FugazOne-Regular.ttf);
 }
+
+/* backgrounds */
 .bg-body-tertiary{
     background-image: url(/assets/bgtexture.jpg);
 }
+.bg{
+    background-image: url(/assets/bgtexture.jpg);
+}
+/* navbar */
 .nav-link{
 font-family: FO;
 color: #5F002B;
 }
-.bg{
-    background-image: url(/assets/bgtexture.jpg);
+/* footer */
+.footertext{
+    font-family: MR;
+    color: #5F002B;
+    
 }
