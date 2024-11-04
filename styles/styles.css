@@ -64,4 +64,10 @@ color: #5F002B;
     color: #5F002B;
 }
 
+.imgsizes{
+    width: 398px;
+    height: 398px;
+    border-radius: 0;
+}
+
 /* End of Photos Page */
