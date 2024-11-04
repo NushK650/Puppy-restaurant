@@ -1,22 +1,22 @@
 @font-face {
     font-family: MB;
-    src: url(/styles/fonts/Montauk-Bold.otf);
+    src: url(/assets/fonts/Montauk-Bold.otf);
 }
 @font-face {
     font-family: MI;
-    src: url(/styles/fonts/Montauk-Italic.otf);
+    src: url(/assets/fonts/Montauk-Italic.otf);
 }
 @font-face {
     font-family: ML;
-    src: url(/styles/fonts/Montauk-Light.otf);
+    src: url(/assets/fonts/Montauk-Light.otf);
 }
 @font-face {
     font-family: MR;
-    src: url(/styles/fonts/Montauk-Regular.otf);
+    src: url(/assets/fonts/Montauk-Regular.otf);
 }
 @font-face {
     font-family: FO;
-    src: url(/styles/fonts/FugazOne-Regular.ttf);
+    src: url(/assets/fonts/FugazOne-Regular.ttf);
 }
 .bg-body-tertiary{
     background-image: url(/assets/bgtexture.jpg);
