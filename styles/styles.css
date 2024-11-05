@@ -70,8 +70,20 @@ color: #5F002B;
     border-radius: 0; 
    object-fit: cover;
    padding: 0.625rem;
+}
+/* End of Photos Page */
 
-
+/* About Page Start */
+.Aboutbody{
+    min-height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: 6;
+    gap: 20px;
 }
 
-/* End of Photos Page */
+.Aboutnav{
+    grid-column: ;
+}
+
+/* About Page End */
