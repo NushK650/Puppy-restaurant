@@ -65,9 +65,13 @@ color: #5F002B;
 }
 
 .imgsizes{
-    width: 398px;
-    height: 398px;
-    border-radius: 0;
+     width: 24.8%;
+    /* height: 100%;
+    border-radius: 0; */ 
+   object-fit: cover;
+   padding: 0.625rem;
+
+
 }
 
 /* End of Photos Page */
