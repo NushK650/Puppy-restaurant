@@ -58,6 +58,12 @@ color: #5F002B;
     padding-right: 100px;
 }
 /* home */
+#homecard{
+    width: 650px; 
+    height: 250px;
+}
+
+
 
 /* Photos Page */
 .title-text{
