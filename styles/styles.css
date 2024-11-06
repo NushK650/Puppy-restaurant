@@ -30,7 +30,7 @@
 .card-text{
     font-family: ML;
     color: #5F002B;
-    font-size: 1.25rem;
+    font-size: 15px;
     line-height: normal;
 }
 .card-title-catering{
@@ -81,6 +81,39 @@
 
 
 /* Photos Page */
+.photosbody{
+    min-height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: 6;
+    gap: 10px;
+}
+
+.photosnav{
+    grid-column: 1/13;
+    grid-row: 1;
+}
+
+.photosTitle{
+    grid-column: 1/13;
+    grid-row: 2;
+}
+
+.photosRow1{
+    grid-column: 1/13;
+    grid-row: 3;
+}
+
+.photosRow2{
+    grid-column: 1/13;
+    grid-row: 4;
+}
+
+.photosRow3{
+    grid-column: 1/13;
+    grid-row: 5;
+}
+
 .title-text{
     font-family: FO;
     font-size:  3.125rem;
@@ -92,11 +125,8 @@
     /* height: 100%;*/
     border-radius: 0; 
    object-fit: cover;
-   padding: 0.625rem;
-
-
+   
 }
-
 /* End of Photos Page */
 
 /* Menu Page */
@@ -106,3 +136,50 @@
     font-size: 2.1875rem;
 }
 /* End of Menu Page */
+
+/* About Page Start */
+.Aboutbody{
+    min-height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: 6;
+    gap: 20px;
+}
+
+.Aboutnav{
+    grid-column: 1/13;
+    grid-row: 1;
+}
+
+.AboutImg{
+    height:max-content;
+    object-fit: cover;    
+}
+.AboutCardGrid{
+    grid-column: 1/13;
+    grid-row: 2;
+}
+
+
+.AboutTitle{
+    grid-column: 1/13;
+    grid-row: 3;
+}
+
+
+
+.CardGroup1{
+    grid-column: 1/13;
+    grid-row: 4;
+}
+
+.CardGroup2{
+    grid-column: 1/13;
+    grid-row: 5;
+}
+
+.AboutFooter{
+    grid-column: 1/13;
+    grid-row: 6;
+}
+/* About Page End */
