@@ -45,15 +45,10 @@
     font-size: 20px;
     line-height: normal;
 }
-.card-title-home{
-    font-family: FO;
-    color: #5F002B;
-    font-size: 1.875rem;
-}
 .card-img-bottom{
     border-radius: 0%;
     height: 150px;
-   
+    
 }
 /* backgrounds */
 .bg-body-tertiary{
@@ -64,8 +59,8 @@
 }
 /* navbar */
 .nav-link{
-font-family: FO;
-color: #5F002B;
+    font-family: FO;
+    color: #5F002B;
 }
 /* footer */
 .footertext{
@@ -77,11 +72,12 @@ color: #5F002B;
     padding-right: 100px;
 }
 /* home */
-#homecard{
-    width: 650px; 
-    height: 250px;
-}
 
+.card-title-home{
+    font-family: FO;
+    color: #5F002B;
+    font-size: 40px;
+}
 
 
 /* Photos Page */
