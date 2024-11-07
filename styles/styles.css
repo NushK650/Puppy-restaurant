@@ -28,13 +28,27 @@
     font-size: 1.875rem;
 }
 .card-text{
-    font-family: MR;
+    font-family: ML;
     color: #5F002B;
     font-size: 15px;
+    line-height: normal;
+}
+.card-title-catering{
+    font-family: FO;
+    color: #5F002B;
+    font-size: 30px;
+    line-height: normal;
+}
+.card-text-catering{
+    font-family: ML;
+    color: #5F002B;
+    font-size: 20px;
+    line-height: normal;
 }
 .card-img-bottom{
     border-radius: 0%;
-   
+    height: 150px;
+    
 }
 /* backgrounds */
 .bg-body-tertiary{
@@ -45,12 +59,12 @@
 }
 /* navbar */
 .nav-link{
-font-family: FO;
-color: #5F002B;
+    font-family: FO;
+    color: #5F002B;
 }
 /* footer */
 .footertext{
-    font-family: MR;
+    font-family: ML;
     color: #5F002B;
 }
 .footer-padding{
@@ -58,6 +72,13 @@ color: #5F002B;
     padding-right: 100px;
 }
 /* home */
+
+.card-title-home{
+    font-family: FO;
+    color: #5F002B;
+    font-size: 40px;
+}
+
 
 /* Photos Page */
 .photosbody{
@@ -116,7 +137,7 @@ color: #5F002B;
 
 /* Menu Page */
 .price-text {
-    font-family: MR;
+    font-family: ML;
     color: #5F002B;
     font-size: 2.1875rem;
 }
