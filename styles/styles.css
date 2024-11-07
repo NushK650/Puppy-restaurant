@@ -49,8 +49,6 @@
 }
 .card-img-bottom{
     border-radius: 0%;
-    height: 150px;
-    
 }
 /* backgrounds */
 .bg-body-tertiary{
@@ -69,10 +67,7 @@
     font-family: ML;
     color: #5F002B;
 }
-.footer-padding{
-    padding-left: 140px;
-    padding-right: 100px;
-}
+
 /* home */
 
 .card-title-home{
