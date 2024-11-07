@@ -20,7 +20,7 @@
 }
 /* cards */
 .card{
-    
+    border-radius: 0%;
     border-width: 0px;
 }
 .card-title{
