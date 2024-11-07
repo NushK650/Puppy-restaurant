@@ -20,13 +20,15 @@
 }
 /* cards */
 .card{
-    border-radius: 0%;
+    
+    border-width: 0px;
 }
 .card-title{
     font-family: FO;
     color: #5F002B;
     font-size: 1.875rem;
 }
+
 .card-text{
     font-family: ML;
     color: #5F002B;
