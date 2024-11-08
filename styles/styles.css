@@ -21,12 +21,14 @@
 /* cards */
 .card{
     border-radius: 0%;
+    border-width: 0px;
 }
 .card-title{
     font-family: FO;
     color: #5F002B;
     font-size: 1.875rem;
 }
+
 .card-text{
     font-family: ML;
     color: #5F002B;
@@ -47,8 +49,6 @@
 }
 .card-img-bottom{
     border-radius: 0%;
-    height: 150px;
-    
 }
 /* backgrounds */
 .bg-body-tertiary{
@@ -66,11 +66,9 @@
 .footertext{
     font-family: ML;
     color: #5F002B;
+    text-align: center;
 }
-.footer-padding{
-    padding-left: 140px;
-    padding-right: 100px;
-}
+
 /* home */
 
 .card-title-home{
@@ -78,7 +76,16 @@
     color: #5F002B;
     font-size: 40px;
 }
+.HomeHero{
+    object-fit: cover;
+    opacity: 0%;
 
+}
+.herobg{
+    background-image: url(/assets/homeHero.jpg);
+    background-size: cover;
+    display: 0;
+}
 
 /* Photos Page */
 .photosbody{
@@ -202,3 +209,8 @@
 
     }
 }
+
+    
+
+
+
