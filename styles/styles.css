@@ -83,6 +83,7 @@
 .herobg{
     background-image: url(/assets/homeHero.jpg);
     background-size: cover;
+    display: 0;
 }
 
 /* Photos Page */
@@ -207,3 +208,8 @@
 
     }
 }
+
+    
+
+
+
