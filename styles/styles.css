@@ -229,7 +229,11 @@
         gap: 15px;
     }
 
-}  
+}
+
+.line-color {
+    border-color: #980051;
+}
     
 
 
