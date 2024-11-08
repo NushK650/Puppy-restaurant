@@ -79,12 +79,16 @@
 .HomeHero{
     object-fit: cover;
     opacity: 0%;
+    height: fit-content;
 
 }
 .herobg{
     background-image: url(/assets/homeHero.jpg);
     background-size: cover;
-    display: 0;
+    width: 100%;
+   aspect-ratio: 16/5;
+    
+
 }
 
 /* Photos Page */
@@ -169,7 +173,7 @@
 
 .AboutImg{
     width: 100%;
-    height: 100%;;
+    height: 100%;
     object-fit: cover;    
 }
 .AboutCardGrid{
