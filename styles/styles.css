@@ -232,6 +232,14 @@
 
     }
 }
+
+.photoGridSm{
+    @media screen and (max-width:650px ) {
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(12, 1fr);
+        
+    }
+}
 @media(max-width:900px){
     #cateringphotos{
         display: flex;
