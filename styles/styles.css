@@ -75,7 +75,15 @@
     color: #5F002B;
     font-size: 40px;
 }
+.HomeHero{
+    object-fit: cover;
+    opacity: 0%;
 
+}
+.herobg{
+    background-image: url(/assets/homeHero.jpg);
+    background-size: cover;
+}
 
 /* Photos Page */
 .photosbody{
