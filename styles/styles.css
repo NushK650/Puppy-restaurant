@@ -29,6 +29,13 @@
     font-size: 1.875rem;
 }
 
+.nav-text-style{
+    font-family: FO;
+    color: #5F002B;
+    font-size: 1.25rem;
+}
+
+
 .card-text{
     font-family: ML;
     color: #5F002B;
