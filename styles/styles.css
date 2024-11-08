@@ -35,6 +35,13 @@
     font-size: 15px;
     line-height: normal;
 }
+
+.card-text-about{
+    font-family: ML;
+    color: #5F002B;
+    font-size: 18px;
+    line-height: normal;
+}
 .card-title-catering{
     font-family: FO;
     color: #5F002B;
